@@ -95,7 +95,7 @@ README.md
 - Presenting insights professionally in a written report
 
 
-#👤 Author
+##👤 Author
 Cheong Wei En
 Data Science Student @ Ngee Ann Polytechnic
 LinkedIn: https://www.linkedin.com/in/cheong-wei-en-222911303
